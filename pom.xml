@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                es.ieslosmontecillos.hello_world/es.ieslosmontecillos.hello_world.HelloApplication
+                                es.ieslosmontecillos.hello_world/es.ieslosmontecillos.hello_world.Hello_World
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
